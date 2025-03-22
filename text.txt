@@ -1,1 +1,6 @@
 hello world!
+This is my newest contributions...
+1. First I forked the project to commit to.
+2. Cloned it to my IntelliJ
+3. Next I created a branch
+4. ?
