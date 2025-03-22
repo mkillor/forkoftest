@@ -2,5 +2,7 @@ hello world!
 This is my newest contributions...
 1. First I forked the project to commit to.
 2. Cloned it to my IntelliJ
-3. Next I created a branch
-4. ?
+3. Next I created a branch and gave it a feature name
+4. I added comments then commit and push to this version/feature
+5. Then from github clicked compare and pull request
+6. If there are no conflicts than the code can be merged!
