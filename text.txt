@@ -6,3 +6,8 @@ This is my newest contributions...
 4. I added comments then commit and push to this version/feature
 5. Then from github clicked compare and pull request
 6. If there are no conflicts than the code can be merged!
+
+More stuff...
+7. Then resync the fork from github, and clone it.
+8. After the merge delete the branch and start a new branch/feature
+9. It is generally a good idea to keep clean workflow this way and commits stay on single branches.
